@@ -10,7 +10,7 @@
 //   Id:                $Id$
 //
 //
-//   Copyright © 2009-2015 Rene Schulte and WriteableBitmapEx Contributors
+//   Copyright ?2009-2015 Rene Schulte and WriteableBitmapEx Contributors
 //
 //   This code is open source. Please read the License.txt for details. No worries, we won't sue you! ;)
 //
