@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Button_ExtractDiff" xml:space="preserve">
-    <value>只显示差异</value>
+    <value>显示差异</value>
   </data>
   <data name="Label_SkipFirstBlankRows" xml:space="preserve">
     <value>忽略第一个空白行</value>
